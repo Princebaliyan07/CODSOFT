@@ -10,6 +10,7 @@ This repository contains the projects I completed during my internship at CodSof
 ➖ Subtraction
 ✖️ Multiplication
 ➗ Division
+
 👨‍💻 Features:
 User inputs two numbers and selects the desired operation
 Clean GUI interface using Tkinter
@@ -17,6 +18,7 @@ Real-time result display
 
 🔐 2. Password Generator – Tkinter GUI Application
 📌 A secure password generator that creates strong and random passwords based on user preferences.
+
 👨‍💻 Features:
 User specifies password length and character types (letters, numbers, symbols)
 Generates secure passwords instantly
@@ -24,6 +26,7 @@ Simple and interactive GUI using Tkinter
 
 ✊ 3. Rock, Paper, Scissors Game – Tkinter GUI Application
 📌 A fun game where the user plays Rock, Paper, Scissors against the computer.
+
 👨‍💻 Features:
 Random choice generation for computer
 GUI buttons for user selection
