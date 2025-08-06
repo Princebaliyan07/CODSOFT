@@ -4,7 +4,7 @@ This repository contains the projects I completed during my internship at CodSof
 
 📁 Projects Included:
 
-🧮 1. Simple Calculator – Tkinter GUI Application
+ 1. SIMPLE CALCULATOR 🧮 – Tkinter GUI Application
 📌 A basic calculator that allows users to perform standard arithmetic operations:
 ➕ Addition
 ➖ Subtraction
@@ -16,7 +16,8 @@ User inputs two numbers and selects the desired operation
 Clean GUI interface using Tkinter
 Real-time result display
 
-🔐 2. Password Generator – Tkinter GUI Application
+
+2. PASSWORD GENERATOR 🔐 – Tkinter GUI Application
 📌 A secure password generator that creates strong and random passwords based on user preferences.
 
 👨‍💻 Features:
@@ -24,7 +25,9 @@ User specifies password length and character types (letters, numbers, symbols)
 Generates secure passwords instantly
 Simple and interactive GUI using Tkinter
 
-✊ 3. Rock, Paper, Scissors Game – Tkinter GUI Application
+
+
+ 3. ROCK, PAPER ,SCISSORS GAME ✊ – Tkinter GUI Application
 📌 A fun game where the user plays Rock, Paper, Scissors against the computer.
 
 👨‍💻 Features:
