@@ -53,3 +53,4 @@ result_entry = tk.Entry(window, width=60)
 result_entry.pack(pady=5)
 
 window.mainloop()
+
